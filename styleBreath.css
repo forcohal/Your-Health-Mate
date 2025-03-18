@@ -1,0 +1,22 @@
+.breathG{
+    text-align: center;
+    background-color:#003049;
+    display: flex;
+    justify-content: center;
+}
+
+.breathGHeading{
+    font-size: 9vh;
+    color: #faebd7;
+    font-family: "Marker Felt", fantasy, sans-serif;
+}
+.breathGHeader{
+    text-align: center;
+    height: 10vw;
+    padding: 5vmin;
+    align-items: center;
+    transform: translateY(-3vh);
+    transition: transform 0.5s;
+
+}
+

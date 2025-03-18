@@ -1,0 +1,112 @@
+/*CSS for index*/
+body{
+    text-align: center;
+    background-color:#003049;
+    display: flex;
+    justify-content: center;
+    
+
+}
+
+
+
+
+.header{
+    text-align: center;
+    height: 10vw;
+    padding: 5vmin;
+    align-items: center;   
+    transform: translateY(-3vh);
+    transition: transform 0.5s; 
+
+    
+}
+
+
+.heading{
+    font-size: 7vh;
+    color: #faebd7;
+    font-family: "Marker Felt", fantasy, sans-serif;
+}
+
+.brief{
+    font-size: 3vh;
+    color: antiquewhite;
+    font-family: "Marker Felt", fantasy, sans-serif;
+    margin: 0vw;
+}
+
+.options{
+    padding: 1vw;
+    margin: 1vw;
+    margin: 4vmin;
+    
+    
+}
+
+.eyeTest{
+    margin: 5vmin;
+    height: 35vmin;
+    width: 35vmin;
+    border-radius: 6vw;
+    padding: 5vw;
+    background-color: #faebd7;
+    transition: transform 0.2s ease;
+    font-size: 2vmax;
+    color: #003049;
+    font-family: "Marker Felt", fantasy, sans-serif;
+
+}
+.eyeTest:hover{
+    transform: translatey(-2vh);   
+    cursor: pointer;
+}
+
+.breathingTest{
+    margin: 5vmin;
+    height: 35vmin;
+    width: 35vmin;
+    border-radius: 6vw;
+    padding: 5vw;
+    background-color: #faebd7;
+    transition: transform 0.2s ease;
+    font-size: 2vmax;
+    color: #003049;
+    font-family: "Marker Felt", fantasy, sans-serif;
+}
+.breathingTest:hover{
+    transform: translatey(-2vw);   
+    cursor: pointer;
+}
+
+.hearingTest{
+    margin: 5vmin;
+    height: 35vmin;
+    width: 35vmin;
+    border-radius: 6vw;
+    padding: 5vw;
+    background-color: #faebd7;
+    transition: transform 0.2s ease;
+    font-size: 2vmax;
+    color: #003049;
+    font-family: "Marker Felt", fantasy, sans-serif;
+
+}
+
+.hearingTest:hover{
+    transform: translatey(-2vh);
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

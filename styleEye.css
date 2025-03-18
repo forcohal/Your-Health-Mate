@@ -1,0 +1,50 @@
+
+.box{
+    margin: 5vmin;
+    height: 35vmin;
+    width: 35vmin;
+    border-radius: 6vw;
+    padding: 5vw;
+    background-color: #faebd7;
+    transition: transform 0.2s ease;
+    align-items: center;
+    text-align: center;
+    font-size: 2vmax;
+    color: #003049;
+    font-family: "Marker Felt", fantasy, sans-serif;
+    justify-content: center; 
+}
+.box:hover{
+    transform: translatey(-2vw);   
+    cursor: pointer;
+}
+
+.eyeG{
+    text-align: center;
+    background-color:#003049;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.eyeGHeading{
+    font-size: 7vh;
+    color: #faebd7;
+    font-family: "Marker Felt", fantasy, sans-serif;
+}
+.eyeGHeader{
+    text-align: center;
+    height: 10vw;
+    padding: 5vmin;
+    align-items: center;
+    transform: translateY(-3vh);
+    transition: transform 0.5s;
+
+}
+
+.eyeGOptions{
+    
+    padding: 1vw;
+    margin: 1vw;
+    margin: 4vmin;
+}
